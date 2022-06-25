@@ -1,0 +1,6 @@
+co\unicauca\travelagency\access\CustomerRepositoryImplArrays.class
+co\unicauca\travelagency\domain\service\CustomerService.class
+co\unicauca\travelagency\AppConfiguration.class
+co\unicauca\travelagency\access\ICustomerRepository.class
+co\unicauca\travelagency\domain\entity\Customer.class
+co\unicauca\travelagency\presentation\rest\CustomerController.class
